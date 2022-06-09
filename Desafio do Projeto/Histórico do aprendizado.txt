@@ -1,0 +1,9 @@
+•	Conhecer a Dio.
+Empresa bem top e profissional, com metodologia bem elaborada e um time bem formado, abrindo fronteiras para os mais diversos perfis profissionais que buscam uma formação em TI.
+
+•	A importância do Pensamento Computacional. 
+Algo que não imaginamos o tão abrangente é o tema e as múltiplas formas de fazer as coisas do dia a dia através do raciocínio lógico. 
+
+•	Git / GitHub
+Complexo o entendimento quando se ver pela primeira vez, as nuances das configurações e os comandos da operação, chave SSH e Token, preciso estudar mais e praticar com intensidade.
+A parte do controle dos arquivos que vão ao Remote Repository é fantástico esse sistema que pode ser avaliado como qualidade total dos dados
